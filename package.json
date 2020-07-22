@@ -1,16 +1,16 @@
 {
   "name": "slack-reminder-grammar",
   "version": "1.0.2",
+  "bin": {
+    "slack-reminder": "./bin/slackReminder"
+  },
   "dependencies": {
+    "@babel/polyfill": "7.10.4",
     "nearley": "^2.19.4",
     "typescript": "3.9.7",
     "yargs": "15.4.1"
   },
-  "bin": {
-    "slack-reminder": "./bin/slackReminder"
-  },
   "devDependencies": {
-    "@babel/polyfill": "7.10.4",
     "@babel/cli": "7.10.5",
     "@babel/core": "7.10.5",
     "@babel/node": "7.10.5",
