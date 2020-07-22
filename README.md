@@ -2,6 +2,9 @@
 
 Simplified Slack Reminder Grammer to parse /remind commands like
 
+## Blog Post
+[Parsing Slack /remind Command](https://medium.com/@sibelius/parsing-slack-remind-command-fc3f5e4026e)
+
 ## Examples
 
 ```jsx
