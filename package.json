@@ -7,7 +7,7 @@
     "yargs": "15.4.1"
   },
   "bin": {
-    "slack-reminder": "./bin/cli"
+    "slack-reminder": "./bin/slackReminder"
   },
   "devDependencies": {
     "@babel/polyfill": "7.10.4",
