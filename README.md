@@ -39,5 +39,5 @@ We compile the grammar using `nearleyc`
 
 [Parsing Absolutely Anything in Javascript using Earley Algorithm](https://medium.com/@gajus/parsing-absolutely-anything-in-javascript-using-earley-algorithm-886edcc31e5e) by @gajus is a great start
 
-## is this Turing complete?
+## Is this Turing complete?
 No, and Turing completeness are not useful in all domain languages.
