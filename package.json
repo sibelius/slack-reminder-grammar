@@ -1,6 +1,6 @@
 {
   "name": "slack-reminder-grammar",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "dependencies": {
     "nearley": "^2.19.4",
     "typescript": "3.9.7",
